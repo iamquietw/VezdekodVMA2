@@ -1,0 +1,10 @@
+.name {
+    font-family: "SF Semibold", serif;
+    letter-spacing: 0px;
+    color: #2a5885;
+    display: inline;
+}
+.description {
+    font-family: "SF Regular", serif;
+    display: inline;
+}
